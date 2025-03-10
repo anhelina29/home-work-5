@@ -1,0 +1,50 @@
+﻿h1 {
+    color: brown;
+}
+
+.test {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#color {
+    background: aqua;
+}
+
+[type="text"] {
+    border: dashed;
+    border-radius: 5px;
+}
+
+.around p {
+    border: solid;
+    border-color: crimson;
+    width: 350px;
+}
+
+div > span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+
+h2 + p {
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+div.comparison {
+    border: double;
+    font-weight: bold;
+    color: deeppink;
+}
+
+#test.blue {
+    color: white;
+    background: darkblue;
+    font-size: 25px;
+}
+
+div#container {
+    font-size: 18px;
+    font-weight: bold;
+}
